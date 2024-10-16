@@ -1,0 +1,12 @@
+com\Project\StudentManagmentSys\service\UsersManagementService.class
+com\Project\StudentManagmentSys\Config\SecurityConfig.class
+com\Project\StudentManagmentSys\service\JWTUtils.class
+com\Project\StudentManagmentSys\Config\CorsConfig.class
+com\Project\StudentManagmentSys\controller\UserManagementController.class
+com\Project\StudentManagmentSys\StudentManagmentSysApplication.class
+com\Project\StudentManagmentSys\dto\ReqRes.class
+com\Project\StudentManagmentSys\service\OurUserDetailsService.class
+com\Project\StudentManagmentSys\repository\UsersRepo.class
+com\Project\StudentManagmentSys\Config\JWTAuthFilter.class
+com\Project\StudentManagmentSys\Config\CorsConfig$1.class
+com\Project\StudentManagmentSys\entity\OurUsers.class
